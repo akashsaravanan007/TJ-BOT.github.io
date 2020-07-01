@@ -10,7 +10,7 @@ translate speech to text, recognize and translate languages, and analyze emotion
 refer https://my-tjbot.mybluemix.net/. this site is used to do tjbot excercise [virtual simulator].
 
 
-
+![TJBOT-4](https://user-images.githubusercontent.com/58935531/86252615-10a48d80-bbd1-11ea-9990-450fdb1dbc2a.gif)
 
 
 
