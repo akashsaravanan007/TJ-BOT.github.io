@@ -15,5 +15,3 @@ refer https://my-tjbot.mybluemix.net/. this site is used to do tjbot excercise [
 
 
 
-
-![TJBOT-1](https://user-images.githubusercontent.com/58935531/86251869-1057c280-bbd0-11ea-8271-4f6e510c83f2.gif)
